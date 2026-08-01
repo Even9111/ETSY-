@@ -1,0 +1,7 @@
+interface:
+  display_name: "Etsy Listing Researcher"
+  short_description: "Research Etsy listings and create single or batch listing workbooks"
+  default_prompt: "Use $etsy-listing-researcher to research my product or product folders on Etsy and create evidence-backed listing materials saved beside each product folder."
+
+policy:
+  allow_implicit_invocation: true
